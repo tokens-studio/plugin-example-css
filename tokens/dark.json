@@ -95,18 +95,6 @@
       "type": "borderWidth"
     }
   },
-  "boxShadow": {
-    "dark": {
-      "value": {
-        "x": 5,
-        "y": 5,
-        "spread": 3,
-        "color": "#00000080",
-        "blur": 5
-      },
-      "type": "boxShadow"
-    }
-  },
   "colors": {
     "black": {
       "value": "#000000",
