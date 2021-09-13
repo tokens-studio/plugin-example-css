@@ -1,31 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Mon, 13 Sep 2021 11:57:26 GMT
+ * Generated on Mon, 13 Sep 2021 11:58:23 GMT
  */
 
 :root {
-  --foreground: #000000;
-  --background: #ffffff;
-  --spacing-scale: 2;
-  --spacing-xs: 4;
-  --spacing-sm: 8;
-  --spacing-md: 16;
-  --spacing-lg: 32;
-  --spacing-xl: 64;
-  --sizing-scale: 2;
-  --sizing-xs: 4;
-  --sizing-sm: 8;
-  --sizing-md: 16;
-  --sizing-lg: 32;
-  --sizing-xl: 64;
-  --border-radius-sm: 4;
-  --border-radius-lg: 8;
-  --border-radius-xl: 16;
-  --border-width-none: 0;
-  --border-width-xs: 1;
-  --border-width-sm: 2;
-  --border-width-md: 4;
-  --border-width-lg: 8;
+  --colors-foreground: #000000;
+  --colors-background: #ffffff;
   --colors-black: #000000;
   --colors-white: #ffffff;
   --colors-gray-100: #f7fafc;
@@ -118,6 +98,26 @@
   --colors-pink-700: #b83280;
   --colors-pink-800: #97266d;
   --colors-pink-900: #702459;
+  --spacing-scale: 2;
+  --spacing-xs: 4;
+  --spacing-sm: 8;
+  --spacing-md: 16;
+  --spacing-lg: 32;
+  --spacing-xl: 64;
+  --sizing-scale: 2;
+  --sizing-xs: 4;
+  --sizing-sm: 8;
+  --sizing-md: 16;
+  --sizing-lg: 32;
+  --sizing-xl: 64;
+  --border-radius-sm: 4;
+  --border-radius-lg: 8;
+  --border-radius-xl: 16;
+  --border-width-none: 0;
+  --border-width-xs: 1;
+  --border-width-sm: 2;
+  --border-width-md: 4;
+  --border-width-lg: 8;
   --opacity-low: 10%;
   --opacity-md: 50%;
   --opacity-high: 90%;
