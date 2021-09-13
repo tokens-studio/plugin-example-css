@@ -4,25 +4,7 @@
     "type": "color"
   },
   "background": {
-    "value": {
-      "name": "background",
-      "value": {
-        "name": "background",
-        "value": {
-          "name": "background",
-          "value": null,
-          "type": "color",
-          "internal__Parent": "dark",
-          "rawValue": "{colors.dark}"
-        },
-        "type": "color",
-        "internal__Parent": "dark",
-        "rawValue": "{colors.dark}"
-      },
-      "type": "color",
-      "internal__Parent": "dark",
-      "rawValue": "{colors.dark}"
-    },
+    "value": "#000000",
     "type": "color"
   },
   "spacing": {
