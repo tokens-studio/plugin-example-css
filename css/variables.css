@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 13 Sep 2021 12:00:31 GMT
+ * Generated on Mon, 18 Oct 2021 17:37:03 GMT
  */
 
 :root {
@@ -98,12 +98,12 @@
   --colors-pink-700: #b83280;
   --colors-pink-800: #97266d;
   --colors-pink-900: #702459;
-  --spacing-scale: 2;
+  --spacing-scale: 3;
   --spacing-xs: 4;
-  --spacing-sm: 8;
-  --spacing-md: 16;
-  --spacing-lg: 32;
-  --spacing-xl: 64;
+  --spacing-sm: 12;
+  --spacing-md: 36;
+  --spacing-lg: 108;
+  --spacing-xl: 324;
   --sizing-scale: 2;
   --sizing-xs: 4;
   --sizing-sm: 8;

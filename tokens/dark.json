@@ -399,7 +399,7 @@
   },
   "spacing": {
     "scale": {
-      "value": 2,
+      "value": 3,
       "type": "spacing"
     },
     "xs": {
@@ -407,19 +407,19 @@
       "type": "spacing"
     },
     "sm": {
-      "value": 8,
+      "value": 12,
       "type": "spacing"
     },
     "md": {
-      "value": 16,
+      "value": 36,
       "type": "spacing"
     },
     "lg": {
-      "value": 32,
+      "value": 108,
       "type": "spacing"
     },
     "xl": {
-      "value": 64,
+      "value": 324,
       "type": "spacing"
     }
   },
