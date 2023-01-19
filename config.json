@@ -2,11 +2,11 @@
   "source": ["tokens/**/*.json"],
   "platforms": {
     "css": {
-      "transformGroup": "css",
+      "transformGroup": "scss",
       "files": [
         {
-          "destination": "css/variables.css",
-          "format": "css/variables"
+          "destination": "css/variables.scss",
+          "format": "scss/variables"
         }
       ]
     }
