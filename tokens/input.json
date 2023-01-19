@@ -45,7 +45,7 @@
       }
     },
     "backgrounds-primary": {
-      "value": "#f5f7ffff",
+      "value": "#F5F7FF",
       "type": "color",
       "blendMode": "normal",
       "extensions": {
@@ -56,7 +56,7 @@
       }
     },
     "backgrounds-success": {
-      "value": "#92d08dff",
+      "value": "#2B7763",
       "type": "color",
       "blendMode": "normal",
       "extensions": {
@@ -67,7 +67,7 @@
       }
     },
     "backgrounds-success-subdued": {
-      "value": "#baebcbff",
+      "value": "#8AB4A9",
       "type": "color",
       "blendMode": "normal",
       "extensions": {
@@ -89,7 +89,7 @@
       }
     },
     "backgrounds-dangerous-subdued": {
-      "value": "#ffece9ff",
+      "value": "#d92a0f33",
       "type": "color",
       "blendMode": "normal",
       "extensions": {
@@ -100,23 +100,12 @@
       }
     },
     "backgrounds-secondary": {
-      "value": "#f4f4edff",
+      "value": "#f6f6f6ff",
       "type": "color",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:c3d28d636c175e0cfef65da1fdf017de38667379,",
-          "exportKey": "color"
-        }
-      }
-    },
-    "backgrounds-shop-cash-secondary": {
-      "value": "#e4f6ebff",
-      "type": "color",
-      "blendMode": "normal",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:b0a9cd0d9bbb2546c1866b2ba0b27fffc4c60a93,",
           "exportKey": "color"
         }
       }

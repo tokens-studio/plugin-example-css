@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 19 Jan 2023 17:37:53 GMT
+ * Generated on Thu, 19 Jan 2023 19:13:36 GMT
  */
 
 :root {
@@ -8,13 +8,12 @@
   --backgrounds-backgrounds-subdued: #f2f3f5ff;
   --backgrounds-backgrounds-overlay: #1a1a1a99;
   --backgrounds-backgrounds-placeholder: #f2f3f5ff;
-  --backgrounds-backgrounds-primary: #f5f7ffff;
-  --backgrounds-backgrounds-success: #92d08dff;
-  --backgrounds-backgrounds-success-subdued: #baebcbff;
+  --backgrounds-backgrounds-primary: #F5F7FF;
+  --backgrounds-backgrounds-success: #2B7763;
+  --backgrounds-backgrounds-success-subdued: #8AB4A9;
   --backgrounds-backgrounds-dangerous: #d92a0fff;
-  --backgrounds-backgrounds-dangerous-subdued: #ffece9ff;
-  --backgrounds-backgrounds-secondary: #f4f4edff;
-  --backgrounds-backgrounds-shop-cash-secondary: #e4f6ebff;
+  --backgrounds-backgrounds-dangerous-subdued: #d92a0f33;
+  --backgrounds-backgrounds-secondary: #f6f6f6ff;
   --foregrounds-text-foregrounds-regular: #1A1A1A;
   --foregrounds-text-foregrounds-regular-inverse: #ffffffff;
   --foregrounds-text-foregrounds-secondary: #3f454dff;
