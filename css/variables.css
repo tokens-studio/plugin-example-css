@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 19 Jan 2023 19:17:20 GMT
+ * Generated on Fri, 20 Jan 2023 17:31:29 GMT
  */
 
 :root {
@@ -35,7 +35,7 @@
   --components-controls-checkbox-checkmark: #ffffffff;
   --components-controls-inputs-background: #ffffffff;
   --components-controls-inputs-placeholder-text: #a8a8a7ff;
-  --components-controls-inputs-clear-button: #a8a8a7ff;
+  --components-controls-inputs-clear-button: #cbcbcaff;
   --components-controls-search-input-background: #f2f3f5ff;
   --components-labels-action-label-background: #d92a0f33;
   --components-labels-action-label-text: #d92a0fff;
@@ -62,13 +62,13 @@
   --palette-currant-c20: #D9E1FF;
   --palette-currant-c10: #EBEFFF;
   --palette-currant-c5: #F5F7FF;
-  --palette-jalapenho-j60: #2B7763;
-  --palette-jalapenho-j50: #4B8B7A;
-  --palette-jalapenho-j40: #6BA092;
-  --palette-jalapenho-j30: #8AB4A9;
-  --palette-jalapenho-j20: #8AB4A9;
-  --palette-jalapenho-j10: #EDF9F6;
-  --palette-jalapenho-j5: #F7FAF9;
+  --palette-jalapeno-j60: #2B7763;
+  --palette-jalapeno-j50: #4B8B7A;
+  --palette-jalapeno-j40: #6BA092;
+  --palette-jalapeno-j30: #8AB4A9;
+  --palette-jalapeno-j20: #8AB4A9;
+  --palette-jalapeno-j10: #EDF9F6;
+  --palette-jalapeno-j5: #F7FAF9;
   --poster-posterlarge-font-size: 64;
   --poster-posterlarge-text-decoration: none;
   --poster-posterlarge-font-family: SF Pro Display;
