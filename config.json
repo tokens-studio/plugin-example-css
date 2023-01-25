@@ -14,7 +14,7 @@
       "transformGroup": "js",
       "files": [
         {
-          "destination": "js/variables.d.ts",
+          "destination": "typescript/es6-declarations",
           "format": "typings/es6"
         }
       ]
