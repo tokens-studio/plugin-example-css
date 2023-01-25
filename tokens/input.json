@@ -1,6 +1,6 @@
 {
   "backgrounds": {
-    "backgrounds-regular": {
+    "regular": {
       "value": "#ffffffff",
       "type": "color",
       "blendMode": "normal",
@@ -11,7 +11,7 @@
         }
       }
     },
-    "backgrounds-subdued": {
+    "subdued": {
       "value": "#f2f3f5ff",
       "type": "color",
       "blendMode": "normal",
@@ -22,7 +22,7 @@
         }
       }
     },
-    "backgrounds-overlay": {
+    "overlay": {
       "value": "#1a1a1a99",
       "type": "color",
       "blendMode": "normal",
@@ -33,7 +33,7 @@
         }
       }
     },
-    "backgrounds-placeholder": {
+    "placeholder": {
       "value": "#f2f3f5ff",
       "type": "color",
       "blendMode": "normal",
@@ -44,7 +44,7 @@
         }
       }
     },
-    "backgrounds-primary": {
+    "primary": {
       "value": "#F5F7FF",
       "type": "color",
       "blendMode": "normal",
@@ -55,7 +55,18 @@
         }
       }
     },
-    "backgrounds-success": {
+    "secondary": {
+      "value": "#f6f6f6ff",
+      "type": "color",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:c3d28d636c175e0cfef65da1fdf017de38667379,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "success": {
       "value": "#2B7763",
       "type": "color",
       "blendMode": "normal",
@@ -66,7 +77,7 @@
         }
       }
     },
-    "backgrounds-success-subdued": {
+    "success-subdued": {
       "value": "#8AB4A9",
       "type": "color",
       "blendMode": "normal",
@@ -77,7 +88,7 @@
         }
       }
     },
-    "backgrounds-dangerous": {
+    "dangerous": {
       "value": "#d92a0fff",
       "type": "color",
       "blendMode": "normal",
@@ -88,7 +99,7 @@
         }
       }
     },
-    "backgrounds-dangerous-subdued": {
+    "dangerous-subdued": {
       "value": "#d92a0f33",
       "type": "color",
       "blendMode": "normal",
@@ -99,20 +110,13 @@
         }
       }
     },
-    "backgrounds-secondary": {
-      "value": "#f6f6f6ff",
-      "type": "color",
-      "blendMode": "normal",
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:c3d28d636c175e0cfef65da1fdf017de38667379,",
-          "exportKey": "color"
-        }
-      }
+    "transparent": {
+      "value": "#ffffff1a",
+      "type": "color"
     }
   },
   "foregrounds-text": {
-    "foregrounds-regular": {
+    "regular": {
       "value": "#1A1A1A",
       "type": "color",
       "blendMode": "normal",
@@ -123,7 +127,7 @@
         }
       }
     },
-    "foregrounds-regular-inverse": {
+    "regular-inverse": {
       "value": "#ffffffff",
       "type": "color",
       "blendMode": "normal",
@@ -134,7 +138,7 @@
         }
       }
     },
-    "foregrounds-secondary": {
+    "secondary": {
       "value": "#3f454dff",
       "type": "color",
       "blendMode": "normal",
@@ -145,7 +149,7 @@
         }
       }
     },
-    "foregrounds-placeholder": {
+    "placeholder": {
       "value": "#a8a8a7ff",
       "type": "color",
       "blendMode": "normal",
@@ -156,7 +160,7 @@
         }
       }
     },
-    "foregrounds-subdued": {
+    "subdued": {
       "value": "#6f747aff",
       "type": "color",
       "blendMode": "normal",
@@ -167,7 +171,7 @@
         }
       }
     },
-    "foregrounds-primary": {
+    "primary": {
       "value": "#0038ffff",
       "type": "color",
       "blendMode": "normal",
@@ -178,7 +182,7 @@
         }
       }
     },
-    "foregrounds-contrasting": {
+    "contrasting": {
       "value": "#ffffffff",
       "type": "color",
       "blendMode": "normal",
@@ -189,7 +193,7 @@
         }
       }
     },
-    "foregrounds-contrasting-inverted": {
+    "contrasting-inverted": {
       "value": "#000000ff",
       "type": "color",
       "blendMode": "normal",
@@ -199,6 +203,10 @@
           "exportKey": "color"
         }
       }
+    },
+    "inactive": {
+      "value": "#cbcbcaff",
+      "type": "color"
     }
   },
   "components": {
@@ -397,8 +405,8 @@
     }
   },
   "highlights": {
-    "highlights-primary": {
-      "value": "palette.currant.C60",
+    "primary": {
+      "value": "#0038ffff",
       "type": "color",
       "blendMode": "normal",
       "extensions": {
@@ -408,7 +416,7 @@
         }
       }
     },
-    "highlights-success": {
+    "success": {
       "value": "#2B7763",
       "type": "color",
       "blendMode": "normal",
@@ -419,17 +427,17 @@
         }
       }
     },
-    "highlights-success-subdued": {
+    "success-subdued": {
       "value": "#8AB4A9",
       "type": "color",
-      "description": "Palette/Green L1 ",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:147e4aeda5dd6eb1b1fbba3291e7744341196e33,",
           "exportKey": "color"
         }
-      }
+      },
+      "description": "Palette/Green L1 "
     }
   },
   "palette": {
@@ -635,7 +643,7 @@
         "type": "color"
       },
       "J20": {
-        "value": "#8AB4A9",
+        "value": "#AAC9C1",
         "type": "color"
       },
       "J10": {
@@ -1065,7 +1073,7 @@
         "type": "textCase"
       }
     },
-    "subtitle (18,med)": {
+    "subtitle": {
       "fontSize": {
         "value": 18,
         "type": "fontSizes"
@@ -1694,9 +1702,15 @@
     },
     "type": "border"
   },
-  "button": {
-    "value": "36pt",
-    "type": "borderRadius"
+  "radius": {
+    "button": {
+      "value": "36pt",
+      "type": "borderRadius"
+    },
+    "card": {
+      "value": 8,
+      "type": "borderRadius"
+    }
   },
   "outline-button": {
     "value": {
@@ -1790,35 +1804,29 @@
       "type": "type"
     }
   },
-  "card radius": {
-    "value": 8,
-    "type": "borderRadius"
-  },
-  "controls": {
-    "inputs": {
-      "default": {
-        "value": {
-          "color": "#cbcbcaff",
-          "width": "1pt",
-          "style": "solid"
-        },
-        "type": "border"
+  "inputs": {
+    "default": {
+      "value": {
+        "color": "#cbcbcaff",
+        "width": "1pt",
+        "style": "solid"
       },
-      "active": {
-        "value": {
-          "color": "#002299ff",
-          "width": "1.5pt",
-          "style": "solid"
-        },
-        "type": "border"
+      "type": "border"
+    },
+    "active": {
+      "value": {
+        "color": "#002299ff",
+        "width": "1.5pt",
+        "style": "solid"
       },
-      "error": {
-        "value": {
-          "color": "#d92a0fff",
-          "width": "1.5pt"
-        },
-        "type": "border"
-      }
+      "type": "border"
+    },
+    "error": {
+      "value": {
+        "color": "#d92a0fff",
+        "width": "1.5pt"
+      },
+      "type": "border"
     }
   },
   "small": {
@@ -1836,5 +1844,27 @@
   "extra-large": {
     "value": "32pt",
     "type": "spacing"
+  },
+  "button": {
+    "large": {
+      "value": "56pt",
+      "type": "sizing"
+    },
+    "medium": {
+      "value": "44pt",
+      "type": "sizing"
+    },
+    "small": {
+      "value": "32pt",
+      "type": "sizing"
+    }
+  },
+  "opacity": {
+    "interactive": {
+      "pressed": {
+        "value": 0.68,
+        "type": "opacity"
+      }
+    }
   }
 }
