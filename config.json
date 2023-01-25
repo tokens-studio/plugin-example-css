@@ -10,6 +10,15 @@
         }
       ]
     },
+    "ts": {
+      "transformGroup": "js",
+      "files": [
+        {
+          "destination": "js/variables.d.ts",
+          "format": "typings/es6"
+        }
+      ]
+    },
      "css": {
       "transformGroup": "css",
       "files": [
