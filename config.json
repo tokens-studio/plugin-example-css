@@ -19,12 +19,12 @@
         }
       ]
     },
-    "ts": {
+    "js": {
       "transformGroup": "js",
       "files": [
         {
-          "destination": "ts/variables.d.ts",
-          "format": "typescript/es6"
+          "destination": "js/variables.js",
+          "format": "javasript/es6"
         }
       ]
     },
