@@ -11,7 +11,7 @@
       ]
     },
     "ts": {
-      "transformGroup": "ts",
+      "transformGroup": "js",
       "files": [
         {
           "destination": "ts/variables.d.ts",
