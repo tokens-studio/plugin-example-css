@@ -10,12 +10,21 @@
         }
       ]
     },
+    "tsDeclarations": {
+      "transformGroup": "js",
+      "files": [
+        {
+          "destination": "ts/declarations.d.ts",
+          "format": "typescript/es6-declarations"
+        }
+      ]
+    },
     "ts": {
       "transformGroup": "js",
       "files": [
         {
           "destination": "ts/variables.d.ts",
-          "format": "typescript/es6-declarations"
+          "format": "typescript/es6"
         }
       ]
     },
