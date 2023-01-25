@@ -11,11 +11,11 @@
       ]
     },
     "ts": {
-      "transformGroup": "js",
+      "transformGroup": "ts",
       "files": [
         {
-          "destination": "typescript/es6-declarations",
-          "format": "typings/es6"
+          "destination": "ts/variables.d.ts",
+          "format": "typescript/es6-declarations"
         }
       ]
     },
