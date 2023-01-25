@@ -349,7 +349,7 @@
         }
       },
       "inputs-clear-button": {
-        "value": "#a8a8a7ff",
+        "value": "#cbcbcaff",
         "type": "color",
         "blendMode": "normal",
         "extensions": {
@@ -617,7 +617,7 @@
         "type": "color"
       }
     },
-    "jalapenho": {
+    "jalapeno": {
       "J60": {
         "value": "#2B7763",
         "type": "color"
