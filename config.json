@@ -24,7 +24,7 @@
       "files": [
         {
           "destination": "js/variables.js",
-          "format": "javasript/es6"
+          "format": "javascript/es6"
         }
       ]
     },
