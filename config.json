@@ -1,31 +1,18 @@
 {
   "source": ["tokens/**/*.json"],
   "platforms": {
-    "tsDeclarations": {
-      "transformGroup": "js",
-      "files": [
-        {
-          "destination": "ts/declarations.d.ts",
-          "format": "typescript/es6-declarations"
-        }
-      ]
-    },
-    "js": {
-      "transformGroup": "js",
-      "files": [
-        {
-          "destination": "js/variables.js",
-          "format": "javascript/es6"
-        }
-      ]
-    },
     "rn": {
       "transformGroup": "react-native",
       "buildPath": "./src/style-dictionary-dist/",
       "files": [
         {
-          "destination": "rn/variables.js",
-          "format": "javascript/es6"
+          "destination": "rn/colorVariables.js",
+          "format": "javascript/es6",
+          "filter": {
+            "attributes": {
+              "type": "color"
+            }
+          }
         }
       ]
     }
