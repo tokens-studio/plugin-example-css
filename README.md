@@ -27,28 +27,16 @@ npm run build
 A set of files will be created at the src folder, one for each token type. 
 ```
 ✔︎ ./src/style-dictionary-dist/colorVariables.js
-
-✔︎ ./src/style-dictionary-dist/textVariables.js
-
-✔︎ ./src/style-dictionary-dist/spacingVariables.js
-
-✔︎ ./src/style-dictionary-dist/sizingVariables.js
-
-✔︎ ./src/style-dictionary-dist/radiiVariables.js
-
-✔︎ ./src/style-dictionary-dist/borderVariables.js
-
 ✔︎ ./src/style-dictionary-dist/shadowsVariables.js
+✔︎ ./src/style-dictionary-dist/textVariables.js
+✔︎ ./src/style-dictionary-dist/radiiVariables.js
 ```
 
 Import these files to your Restyle projects as the example:
 ```
 import  *  as  Colors  from  'theme/tokens/colorVariables';
-
 import  *  as  Shadows  from  'theme/tokens/shadowsVariables';
-
 import  *  as  TextVariants  from  'theme/tokens/textVariables';
-
 import  *  as  BorderRadii  from  'theme/tokens/radiiVariables';
 ```
 
