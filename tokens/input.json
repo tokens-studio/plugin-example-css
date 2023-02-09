@@ -1808,7 +1808,7 @@
     "default": {
       "value": {
         "color": "#cbcbcaff",
-        "width": "1pt",
+        "width": "1.5pt",
         "style": "solid"
       },
       "type": "border"

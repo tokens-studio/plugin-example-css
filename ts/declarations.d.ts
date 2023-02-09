@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 25 Jan 2023 17:35:54 GMT
+ * Generated on Thu, 09 Feb 2023 16:49:19 GMT
  */
 
 export const BackgroundsRegular : string;

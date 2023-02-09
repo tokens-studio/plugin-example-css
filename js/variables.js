@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 25 Jan 2023 17:35:54 GMT
+ * Generated on Thu, 09 Feb 2023 16:49:19 GMT
  */
 
 export const BackgroundsRegular = "#ffffffff";
@@ -337,7 +337,7 @@ export const SmallBlur = 8;
 export const SmallSpread = 0;
 export const SmallColor = "#00000026";
 export const SmallType = "dropShadow";
-export const InputsDefault = {"color":"#cbcbcaff","width":"1pt","style":"solid"};
+export const InputsDefault = {"color":"#cbcbcaff","width":"1.5pt","style":"solid"};
 export const InputsActive = {"color":"#002299ff","width":"1.5pt","style":"solid"};
 export const InputsError = {"color":"#d92a0fff","width":"1.5pt"};
 export const Small = "4pt";
