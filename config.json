@@ -1,15 +1,6 @@
 {
   "source": ["tokens/**/*.json"],
   "platforms": {
-    "scss": {
-      "transformGroup": "scss",
-      "files": [
-        {
-          "destination": "css/variables.scss",
-          "format": "scss/variables"
-        }
-      ]
-    },
     "tsDeclarations": {
       "transformGroup": "js",
       "files": [
@@ -28,12 +19,13 @@
         }
       ]
     },
-     "css": {
-      "transformGroup": "css",
+    "rn": {
+      "transformGroup": "react-native",
+      "buildPath": "./src/style-dictionary-dist/",
       "files": [
         {
-          "destination": "css/variables.css",
-          "format": "css/variables"
+          "destination": "rn/variables.js",
+          "format": "javascript/es6"
         }
       ]
     }
