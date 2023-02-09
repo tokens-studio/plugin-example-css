@@ -8,11 +8,8 @@
         {
           "destination": "rn/colorVariables.js",
           "format": "javascript/es6",
-          "filter": {
-            "attributes": {
-              "type": "color"
-            }
-          }
+          "outputReferences": true,
+          "filter": "isColor"
         }
       ]
     }
